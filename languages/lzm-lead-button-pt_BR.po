@@ -1,0 +1,361 @@
+# Copyright (C) 2026 LZM | LZM Digital
+# This file is distributed under the GPL-2.0-or-later.
+msgid ""
+msgstr ""
+"Project-Id-Version: LZM Lead Button 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/lzm-lead-button\n"
+"POT-Creation-Date: 2026-02-10T04:04:33+00:00\n"
+"PO-Revision-Date: 2026-03-02 15:44-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+"X-Domain: lzm-lead-button\n"
+
+#. Plugin Name of the plugin
+#: lzm-lead-button.php
+msgid "LZM Lead Button"
+msgstr "LZM Lead Button"
+
+#. Plugin URI of the plugin
+#: lzm-lead-button.php
+msgid "https://github.com/valeriagoncalez/lzm-lead-button"
+msgstr "https://github.com/valeriagoncalez/lzm-lead-button"
+
+#. Description of the plugin
+#: lzm-lead-button.php
+msgid ""
+"Prevent accidental clicks. Add a confirmation form before opening WhatsApp "
+"to ensure only real leads are counted."
+msgstr ""
+"Evite cliques acidentais. Adicione um formulário de confirmação antes de "
+"abrir o WhatsApp e garanta que apenas leads reais sejam contados."
+
+#. Author of the plugin
+#: lzm-lead-button.php
+msgid "LZM Digital"
+msgstr "LZM Digital"
+
+#. Author URI of the plugin
+#: lzm-lead-button.php
+msgid "https://lzmdigital.com.br"
+msgstr "https://lzmdigital.com.br"
+
+#: lzm-lead-button.php:38
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#: src/render.php:284 src/edit.js:84
+msgid "Hello, my name is"
+msgstr "Olá, meu nome é"
+
+#: src/render.php:293 src/edit.js:429
+msgid "WhatsApp Button"
+msgstr "Botão do WhatsApp"
+
+#: src/render.php:297 src/edit.js:304
+msgid "Start Chat"
+msgstr "Iniciar conversa"
+
+#: src/render.php:301 src/edit.js:285
+msgid "Your name"
+msgstr "Seu nome"
+
+#: src/render.php:416
+msgid "Contact via WhatsApp"
+msgstr "Contatar via Whatsapp"
+
+#: src/render.php:453 src/edit.js:277
+msgid "Enter your name"
+msgstr "Insira seu nome"
+
+#: src/render.php:473
+msgid "Send"
+msgstr "Enviar"
+
+#: src/render.php:487
+msgid "Close"
+msgstr "Fechar"
+
+#: src/edit.js:78
+msgid "Outline"
+msgstr "Outline"
+
+#: src/edit.js:79
+msgid "Solid"
+msgstr "Solid"
+
+#: src/edit.js:80
+msgid "Text Only (No Icon)"
+msgstr "Somente Texto (Sem Ícone)"
+
+#: src/edit.js:176
+msgid "Button Alignment"
+msgstr "Alinhamento do Botão"
+
+#: src/edit.js:179
+msgid "Align Left"
+msgstr "Alinhar à direita"
+
+#: src/edit.js:185
+msgid "Align Center"
+msgstr "Centralizar"
+
+#: src/edit.js:191
+msgid "Align Right"
+msgstr "Alinhar à direita"
+
+#: src/edit.js:204
+msgid "Destination Settings"
+msgstr "Configurações de destino"
+
+#: src/edit.js:207
+msgid "Use Custom Link"
+msgstr "Usar link customizado"
+
+#: src/edit.js:209
+msgid "Send leads to a custom URL (e.g. Tracking)."
+msgstr "Enviar leads para uma URL personalizada (ex: Rastreamento)."
+
+#: src/edit.js:210
+msgid "Link automatically generated from phone number."
+msgstr "O link do WhatsApp será gerado automaticamente pelo número."
+
+#: src/edit.js:218
+msgid "Tracking URL"
+msgstr "URL de Rastreamento"
+
+#: src/edit.js:221
+msgid "Paste the full URL here (e.g. https://...)."
+msgstr "Cole a URL completa aqui (ex: https://...)."
+
+#: src/edit.js:225
+msgid "WhatsApp Number"
+msgstr "Número do Whatsapp"
+
+#: src/edit.js:228
+msgid "e.g. 15551234567"
+msgstr "ex.: 5511999995555"
+
+#: src/edit.js:234
+msgid "Open in new tab"
+msgstr "Abrir em nova aba"
+
+#: src/edit.js:238
+msgid "The link will open in a new tab."
+msgstr "O link será aberto em uma nova aba."
+
+#: src/edit.js:239
+msgid "The link will open in the same tab."
+msgstr "O link será aberto na mesma aba."
+
+#: src/edit.js:244
+msgid "Button"
+msgstr "Botão"
+
+#: src/edit.js:246
+msgid "Button Text"
+msgstr "Texto do Botão"
+
+#: src/edit.js:253
+msgid "Desktop Button Width"
+msgstr "Largura do Botão em Telas Grandes"
+
+#: src/edit.js:256
+msgid "Sets the width limit (e.g. 500px, 100%, 30rem)."
+msgstr "Define o limite de largura (ex: 500px, 100%, 30rem)."
+
+#: src/edit.js:260
+msgid "Icon Style"
+msgstr "Estilo do Ícone"
+
+#: src/edit.js:267
+msgid "Icon Size"
+msgstr "Tamanho do ícone"
+
+#: src/edit.js:273
+msgid "Modal"
+msgstr "Modal"
+
+#: src/edit.js:275
+msgid "Modal Title"
+msgstr "Título do Modal"
+
+#: src/edit.js:283
+msgid "Input Text"
+msgstr "Texto de Entrada (Placeholder)"
+
+#: src/edit.js:287
+msgid "The text displayed inside the name field."
+msgstr "Texto exibido dentro do campo de nome."
+
+#: src/edit.js:291
+msgid "Minimum Name Length"
+msgstr "Quantidade mínima de caracteres"
+
+#: src/edit.js:292
+msgid "Minimum characters required to enable the submit button."
+msgstr "Quantidade mínima de caracteres para habilitar o botão."
+
+#: src/edit.js:306
+msgid "Text displayed on the submit button inside the form."
+msgstr "Texto exibido no botão de envio dentro do formulário."
+
+#: src/edit.js:310
+msgid "Submit Button Icon"
+msgstr "Ícone do Botão de Envio"
+
+#: src/edit.js:314
+msgid "Choose whether to display the WhatsApp icon on the submit button."
+msgstr "Escolha se deseja exibir o ícone do WhatsApp no botão de envio."
+
+#: src/edit.js:318
+msgid "Modal Colors"
+msgstr "Modal - Cores"
+
+#: src/edit.js:325
+msgid "Overlay Background Color"
+msgstr "Cor de Fundo da Sobreposição"
+
+#: src/edit.js:326
+msgid "Select a solid or transparent color for the modal overlay."
+msgstr "Selecione uma cor sólida ou transparente para a sobreposição do modal."
+
+#: src/edit.js:331
+msgid "Modal Background"
+msgstr "Cor de Fundo do Modal"
+
+#: src/edit.js:336
+msgid "Modal Text Color"
+msgstr "Cor do texto do Modal"
+
+#: src/edit.js:341
+msgid "Submit Button Background"
+msgstr "Cor de Fundo do Botão"
+
+#: src/edit.js:346
+msgid "Submit Button Border Color"
+msgstr "Cor da Borda do Botão"
+
+#: src/edit.js:351
+msgid "Submit Button Text"
+msgstr "Texto do Botão de Envio"
+
+#: src/edit.js:357
+msgid "Tracking ID"
+msgstr "ID de Rastreamento"
+
+#: src/edit.js:359
+msgid "Button Tracking ID"
+msgstr "ID de Rastreamento do Botão"
+
+#: src/edit.js:363
+msgid "Optional. HTML ID for GTM or Analytics."
+msgstr "Opcional. ID HTML para GTM ou Analytics."
+
+#: src/edit.js:367
+msgid "Submit Button Tracking ID"
+msgstr "ID de Rastreamento do Botão de Envio"
+
+#: src/edit.js:371
+msgid "Optional. HTML ID to track the final conversion."
+msgstr "Opcional. ID HTML para rastrear a conversão final."
+
+#: src/edit.js:375
+msgid "Message"
+msgstr "Mensagem"
+
+#: src/edit.js:377
+msgid "Generated message structure:"
+msgstr "Estrutura da mensagem gerada:"
+
+#: src/edit.js:378
+msgid "[Prefix]"
+msgstr "[Prefixo]"
+
+#: src/edit.js:379
+msgid "[Name]"
+msgstr "[Nome]"
+
+#: src/edit.js:380
+msgid "[Suffix]"
+msgstr "[Sufixo]"
+
+#: src/edit.js:384
+msgid "Text Before Name (Prefix)"
+msgstr "Texto Antes do Nome (Prefixo)"
+
+#: src/edit.js:387
+msgid "e.g. \"Hello, my name is \""
+msgstr "ex.: Olá, meu nome é"
+
+#: src/edit.js:391
+msgid "Text After Name (Suffix)"
+msgstr "Texto Após o Nome (Sufixo)"
+
+#: src/edit.js:394
+msgid "e.g. \", I would like a quote.\""
+msgstr "ex.: \", gostaria de um orçamento.\"."
+
+#: src/block.json
+msgctxt "block title"
+msgid "LZM Lead Button"
+msgstr "LZM Lead Button"
+
+#: src/block.json
+msgctxt "block description"
+msgid ""
+"Prevent accidental clicks. Add a confirmation form before opening WhatsApp "
+"to ensure only real leads are counted."
+msgstr ""
+"Evite cliques acidentais. Adicione um formulário de confirmação antes de "
+"abrir o WhatsApp e garanta que apenas leads reais sejam contados."
+
+#~ msgctxt "block description"
+#~ msgid ""
+#~ "Prevent accidental clicks. Add a confirmation form before opening "
+#~ "WhatsApp to ensure only qualified leads are counted."
+#~ msgstr ""
+#~ "Evite cliques acidentais. Adicione um formulário de confirmação antes de "
+#~ "abrir o WhatsApp para garantir que apenas leads qualificados sejam "
+#~ "contabilizados."
+
+#~ msgctxt "block description"
+#~ msgid ""
+#~ "Prevent accidental clicks in your campaigns. This button adds a "
+#~ "confirmation form before opening WhatsApp, ensuring only real and "
+#~ "qualified leads are counted."
+#~ msgstr ""
+#~ "Evite cliques acidentais em campanhas. Este botão adiciona um formulário "
+#~ "de confirmação antes de abrir o WhatsApp, garantindo que apenas leads "
+#~ "reais e qualificados sejam contabilizados."
+
+#~ msgid "Button Height (px)"
+#~ msgstr "Altura do Botão (px)"
+
+#~ msgid "Adjust the minimum height of the button."
+#~ msgstr "Ajuste a altura mínima do botão"
+
+#~ msgid ""
+#~ "Optimize conversion tracking accuracy. Features a double-intent "
+#~ "verification modal to validate user interest before WhatsApp redirection. "
+#~ "Designed to eliminate false positives in marketing campaigns and ensure "
+#~ "high-quality conversion signals."
+#~ msgstr ""
+#~ "Evite cliques acidentais em campanhas. Este botão adiciona um formulário "
+#~ "de confirmação antes de abrir o WhatsApp, garantindo que apenas leads "
+#~ "reais e qualificados sejam contabilizados."
+
+#~ msgctxt "block description"
+#~ msgid ""
+#~ "Optimize conversion tracking accuracy. Features a double-intent "
+#~ "verification modal to validate user interest before WhatsApp redirection. "
+#~ "Designed to eliminate false positives in marketing campaigns and ensure "
+#~ "high-quality conversion signals."
+#~ msgstr ""
+#~ "Evite cliques acidentais em campanhas. Este botão adiciona um formulário "
+#~ "de confirmação antes de abrir o WhatsApp, garantindo que apenas leads "
+#~ "reais e qualificados sejam contabilizados."

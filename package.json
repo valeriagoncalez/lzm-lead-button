@@ -1,0 +1,22 @@
+{
+  "name": "lzm-lead-button",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "wp-scripts build --experimental-modules",
+    "start": "wp-scripts start --experimental-modules",
+    "format": "wp-scripts format",
+    "lint:css": "wp-scripts lint-style",
+    "lint:js": "wp-scripts lint-js",
+    "packages-update": "wp-scripts packages-update",
+    "plugin-zip": "wp-scripts zip"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@wordpress/i18n": "^6.12.0",
+    "@wordpress/scripts": "^31.4.0"
+  }
+}
